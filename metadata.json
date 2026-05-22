@@ -1,0 +1,8 @@
+{
+  "name": "Remix: University Phishing \u0026 Security Awareness Portal",
+  "description": "An interactive social engineering simulation and defense training application that tests, educates, and audits cyber-hygiene among university students and staff.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
